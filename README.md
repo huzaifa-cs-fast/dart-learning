@@ -18,4 +18,4 @@ This repository documents my Dart learning journey during Summer 2026. It contai
 
 ## Goal
 
-Build a strong foundation in Dart programming and software development before transitioning to Flutter and developing larger projects.
+To build a strong foundation in Dart programming and software development before transitioning to Flutter and developing larger projects.
